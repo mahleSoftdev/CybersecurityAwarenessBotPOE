@@ -250,6 +250,7 @@ Ensure MySQL Server is running before launching the application.
 Update the database connection string before building the project.
 Internet access is not required after setup.
 The chatbot automatically creates database tables when necessary.
+
 📂 Project Structure
 CybersecurityChatbot
 │
