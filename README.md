@@ -1,4 +1,4 @@
-#🛡️ Cybersecurity Awareness Chatbot
+🛡️ Cybersecurity Awareness Chatbot
 
 A desktop chatbot built in C# WPF that helps users improve their cybersecurity knowledge through interactive conversations, task management, quizzes, and Natural Language Processing (NLP) simulation.
 
